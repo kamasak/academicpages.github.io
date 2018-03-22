@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mustafa Kamaşak / Personel webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mustafa Kamasak"
 description              : &description "personal description"
 url                      : https://kamasak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Mustafa Kamaşak"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Istanbul, Turkey"
   employer         :
   googlescholar    : "https://scholar.google.com.tr/citations?user=U5UhNHEAAAAJ&hl=tr"
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kamasak"
+  github           : #"kamasak"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
