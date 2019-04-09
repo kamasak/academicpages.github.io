@@ -9,3 +9,5 @@ location: "İstanbul Üniversitesi, İstanbul"
 ---
 
 This is a talk (in Turkish) about the use of artificial intelligence in pathology.
+
+You can reach the slides at [here](../files/SYZ_sunus_MK.pdf)
